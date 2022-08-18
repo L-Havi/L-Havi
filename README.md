@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lauri Havi</h1>
 <h3 align="center">A Junior Software Developer & Information Systems student from Finland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-havi&label=Profile%20views&color=0e75b6&style=flat" alt="l-havi" /> </p>
-
 - 📫 How to reach me **lauri.havi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
