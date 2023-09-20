@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lauri Havi</h1>
-<h3 align="center">A Junior Software Developer & Information Systems student from Finland</h3>
+<h3 align="center">Information Systems student from Finland</h3>
 
 - 📫 How to reach me **lauri.havi@gmail.com**
 
