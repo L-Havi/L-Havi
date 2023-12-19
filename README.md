@@ -26,4 +26,4 @@
 
 <p><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=l-havi&show_icons=true&locale=en&layout=compact"  alt="l-havi"  /></p>
 
-<script src="https://tryhackme.com/badge/1626880"></script>
+<p><script src="https://tryhackme.com/badge/1626880"></script></p>
